@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import Navbar from './components/Navbar'
+import Header from './components/Header'
 
 /**
  * Challenge: Build the Header component
@@ -9,7 +9,7 @@ import Navbar from './components/Navbar'
 export default function App() {
   return (
     <div>
-      <Navbar />
+      <Header />
     </div>
   );
 }
