@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 import Header from './components/Header'
 import Meme from './components/Meme'
-import memesData from './memesData.js'
+//import memesData from './memesData.js'
 
 /**
  * Challenge 1: Build the Header component
